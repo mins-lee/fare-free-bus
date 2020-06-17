@@ -1,7 +1,14 @@
-Triangle Fare-Free Bus Analysis
+Triangle Bus Data Analysis
 ================
 
-Fare-free dates:
+#### Table of Contents
+
+1.  [Fare-Free Day Analysis](#fare-free)
+2.  [Effect of COVID-19 on Ridership](#covid)
+
+### 1\. Fare-Free Day Analysis<a name="fare-free"></a>
+
+#### Fare-free dates:
 
   - International Car-Free Day (2017): Friday, September 22
   - [National Get on Board Day
@@ -17,13 +24,15 @@ Fare-free dates:
 
 ![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
-  - It appears that riderships on Fridays of September do not vary from
-    week to week and from Thursday to Friday.
-  - The total number of passenders in the week of April 22 does not seem
-    to be different from the total in other weeks in the same
-month.
-
 ![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
-  - Election day ridership appears to be going up each year, but the
-    ridership the week after the election day seems to be decreasing.
+  - Ridership on Fridays of September does not vary from week to week
+    and from Thursday to Friday
+  - The number of passengers in the week of April 22 does not seem
+    different from the total in other weeks in the same month
+  - Election day ridership appears to be going up each
+year
+
+### 2\. Effect of COVID-19 on Ridership<a name="covid"></a>
+
+![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
