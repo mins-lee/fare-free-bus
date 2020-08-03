@@ -1,8 +1,10 @@
 Pittsburgh Bus Data Analysis
 ================
 
-[Bus fare collection was resumed
-June 8th.](https://www.portauthority.org/covid-19/coronavirus/)
+[Fare free began March 25th and ended
+June 8th.](https://www.portauthority.org/covid-19/coronavirus/) ![Dates
+of major
+events](major_events.png)
 
 ![](pgh_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
