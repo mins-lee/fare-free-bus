@@ -20,8 +20,6 @@ Pittsburgh Bus Data Analysis
     routes provide lifeline services to low-income
 areas.
 
-#### Total Ridership
-
 ![](pgh_new_format_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 ### 2\. Analysis by Equity Type<a name="equity"></a>
