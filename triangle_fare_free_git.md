@@ -3,10 +3,11 @@ Triangle Bus Data Analysis
 
 #### Table of Contents
 
-1.  [Fare-Free Day Analysis](#fare-free)
-2.  [Effect of COVID-19 on Ridership](#covid)
+1.  [Background Info](#info)
+2.  [Fare-Free Day Analysis](#fare-free)
+3.  [Effect of COVID-19 on Ridership](#covid)
 
-### 1\. Fare-Free Day Analysis<a name="fare-free"></a>
+### 1\. Background Info<a name="info"></a>
 
 #### Fare-free dates:
 
@@ -21,13 +22,19 @@ Triangle Bus Data Analysis
       - Nov 5,
 2019
 
-### Exploratory graphs
+![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
-![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+  - The dip around May 11th needs to be clarified. It could be related
+    to the error in the report generating
+system.
+
+### 2\. Fare-Free Day Analysis<a name="fare-free"></a>
 
 ![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
-![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+
+![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
   - Ridership on Fridays of September does not vary from week to week
     and from Thursday to Friday
@@ -36,6 +43,6 @@ Triangle Bus Data Analysis
   - Election day ridership appears to be going up each
 year
 
-### 2\. Effect of COVID-19 on Ridership<a name="covid"></a>
+### 3\. Effect of COVID-19 on Ridership<a name="covid"></a>
 
-![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
