@@ -19,8 +19,9 @@ Triangle Bus Data Analysis
     Days](https://www.dcovotes.com/public-information/official-elections-results)
       - Nov 7, 2017
       - Nov 6, 2018
-      - Nov 5,
-2019
+      - Nov 5, 2019
+  - [Covid fare-free began
+    March 23rd](https://gotriangle.org/news/coronavirus-updates-how-gotriangle-responding)
 
 ![](triangle_fare_free_git_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
